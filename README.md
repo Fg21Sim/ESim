@@ -6,3 +6,7 @@ ESim is a Python-based simulation tool. Check out the [requirements](https://git
 
 ## Data Requirements
 - Wilman08 Databases
+
+## Copyright
+Main developer: Yongkai Zhu
+Contributors: Chenxi Shan
